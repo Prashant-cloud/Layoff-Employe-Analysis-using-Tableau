@@ -2,7 +2,11 @@ Tableau project
 Learnt Data Visualization and Data Analytics with Tableau by solving Realistic Analytics Projects.
 
 Sreenshot
+
+_________________________________________________________________________________________________________________________________________________________________
 <img width="795" alt="Screenshot 2023-04-12 113617" src="https://user-images.githubusercontent.com/71492861/231442044-577ec2df-3e5f-4736-b056-d77a13cd842f.png">
+
+_________________________________________________________________________________________________________________________________________________________________
 
 What I Learnt in Tableau :
 
